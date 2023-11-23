@@ -23,11 +23,6 @@
 		0px 0px 50px #fff;
 	}
 }
-@keyframes blur2 {
-	from {
-		color: #337AB7 ;
-	}
-}
 @media (max-width:600px) {
 	.logotype3, .logotype3:hover {
 		font-size: 40px;
